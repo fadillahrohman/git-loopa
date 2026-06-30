@@ -239,9 +239,6 @@ export function CommitForm() {
               <span className="text-[10px] font-semibold text-zinc-400 uppercase tracking-wider mb-0.5">
                 Author
               </span>
-              <span className="text-[11px] font-bold text-zinc-700 truncate">
-                FADILLAH ROHMAN
-              </span>
             </div>
 
             {/* Button GitHub  */}
