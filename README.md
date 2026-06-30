@@ -52,13 +52,10 @@ git-loopa/
 ├── postcss.config.js        # PostCSS styling configuration
 ├── tailwind.config.js       # Tailwind CSS styling configuration
 ├── tsconfig.json            # Main TypeScript configuration
+├── tsconfig.node.json       # Node environment-specific TypeScript configuration
 └── vite.config.ts           # Vite bundler configuration
 
 ```
-
-**Additional Configuration Notes:**
-In addition to the files above, there is also `tsconfig.node.json` for Node environment-specific TypeScript configuration, as well as `package.json` for dependency management and scripts (such as `dev` and `build`).
-
 ## Prerequisites
 
 Before running the project, ensure your machine has:
