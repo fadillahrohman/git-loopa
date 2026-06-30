@@ -10,7 +10,8 @@ Git Loopa is a desktop application based on Electron + React + TypeScript that h
 
 ## User Interface
 
-<img width="865" height="702" alt="image" src="https://github.com/user-attachments/assets/db81f93d-3bd9-48cc-84de-200592d3f680" />
+<img width="912" height="672" alt="image" src="https://github.com/user-attachments/assets/e608434f-f22a-40a1-9d31-7b6388725962" />
+
 
 
 ## Application Features
